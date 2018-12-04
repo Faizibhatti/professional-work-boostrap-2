@@ -1,0 +1,191 @@
+.margin-t
+{
+    margin-top: 4.5rem;
+    margin-bottom: 4.5rem;
+}
+.font-z
+{
+    font-size: 2.2em;
+    font-family: "Benton Sans Book",Helvetica,sans-serif;
+    font-weight: normal;
+    color: #000;
+    margin-bottom: 2rem;
+    margin-top: 1px;
+}
+.paragraph-data
+{
+    font-size: 16px;
+    line-height: 1.88;
+    font-family: "Merriweather",serif;
+    font-weight: normal;
+    font-style: normal;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+}
+/* .cta.cta--secondary {
+    border: 2px solid #ff6d02;
+    padding: 11px 28px;
+    background: transparent;
+    color: #ff6d02;
+} */
+/* .cta {
+    display: block;
+    text-align: center;
+    display: inline-block;
+    margin: .5em 0;
+    padding: 13px 30px;
+    background-color: #ff6d02;
+    border: 0;
+    border-radius: 100px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    line-height: 1;
+    font-size: 11px;
+    font-family: "Benton Sans Medium",Helvetica,sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+    -webkit-appearance: none;
+    -webkit-font-smoothing: auto;
+    transition: background-color 0.25s,color 0.35s;
+} */
+.leader-heading
+{
+    display: block;
+    font-family: "Benton Sans Book",Helvetica,sans-serif;
+    line-height: 1.39;
+    font-size: 1.75em;
+    margin-top: 0;
+    margin-bottom: .75em;
+}
+.team-margin
+{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+.team1-margin
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.team2-margin
+{
+    padding-left: 170px;
+    padding-right: 170px;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.l-height
+{
+    line-height: 1.88;
+}
+.m-b
+{
+    margin-bottom: 2rem;
+}
+.thumbnail img {
+    max-width: 100%;
+    width: inherit;
+    transition: all 750ms ease;
+}
+.cultural-head
+{
+    margin: .5em 0;
+    font-family: "Benton Sans Book",Helvetica,sans-serif;
+    color: #000;
+    margin-bottom: .75em;
+}
+.p-wr
+{
+    font-size: 16px;
+    line-height: 1.88;
+    font-family: "Merriweather",serif;
+    font-weight: normal;
+    font-style: normal;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+}
+.confe-head
+{
+    margin-bottom: 21px;
+}
+.thumbnail img:hover {
+    -ms-transform: scale(1.04);
+    transform: scale(1.04);
+}
+.thumbnail img {
+    max-width: 100%;
+    width: inherit;
+    transition: all 750ms ease;
+}
+img
+{
+    height: auto;
+    border: 0;
+}
+h5, .heading--h5 {
+    font-size: 1.25em;
+    line-height: 1.5;
+    font-family: "Benton Sans Book",Helvetica,sans-serif;
+    font-weight: normal;
+}
+.text-deco
+{
+    text-decoration: none;
+}
+.text-deco:hover{
+    text-decoration: underline;
+    color: white;
+}
+.link
+{
+    font-family: "Benton Sans Medium",Helvetica,sans-serif;
+    font-size: 0.6875em;
+    letter-spacing: 1px;
+    color: #ff6d02;
+    text-transform: uppercase;
+}
+.link:hover
+{
+    text-decoration: underline;
+    color: #ff6d02;
+}
+.pic-width
+{
+    width: 600px;
+    height: 400px;
+}
+.margin-top-a
+{
+    margin-top: 1.5rem;
+}
+.h2-h
+{
+    margin-top: 0;
+    margin-bottom: 1em;
+    font-size: 2em;
+    line-height: 1.39;
+    margin: .5em 0;
+    font-family: "Benton Sans Book",Helvetica,sans-serif;
+    line-height: 1.5;
+    font-weight: normal;
+    color: #000;
+}
+.margin-bt
+{
+    margin-bottom: 2rem;
+}
+.icon-width
+{
+    width: 300px;
+    height: 300px;
+}
+.btn-mar
+{
+    margin-top: 2.7rem;
+    margin-bottom: 2rem;
+}

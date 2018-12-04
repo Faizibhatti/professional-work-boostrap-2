@@ -1,0 +1,97 @@
+.feature-main
+{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.heading-feature-text
+{
+    margin-bottom: .75em;
+    font-size: 1.75em;
+    line-height: 1.39;
+    font-family: "Benton Sans Book",Helvetica,sans-serif;
+    color: #000;
+}
+.heading-feature-text-2
+{
+    font-size: 1.25em;
+    line-height: 1.5;
+    font-family: "Benton Sans Book",Helvetica,sans-serif;
+    color: #000;
+    text-decoration: none;
+}
+.heading-feature-text-2:hover
+{
+    color: #000;
+    text-decoration: underline;
+}
+.row-top
+{
+    margin-top: 0.6rem;
+}
+.row-top1
+{
+    margin-top: 1.8rem;
+}
+.a-top
+{
+    margin-top: 0.6rem;
+    margin-bottom: 0.6rem;
+}
+.link
+{
+    font-family: "Benton Sans Medium",Helvetica,sans-serif;
+    font-size: 0.6875em;
+    letter-spacing: 1px;
+    color: #ff6d02;
+    text-transform: uppercase;
+}
+.link:hover{
+    text-decoration: underline;
+    color: #ff6d02;
+}
+.bg-bar
+{
+    background-color: #fafafa;
+    color: #333;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.hori
+{
+    width: 50px;
+    height: 3px;
+    background: #23529c;
+    margin-bottom: 1.5rem;
+    margin-left: 0px;
+}
+.head-bar1
+{
+    margin: .5em 0;
+    font-family: "Benton Sans Book",Helvetica,sans-serif;
+    line-height: 1.2;
+    font-weight: normal;
+    font-size: 1.375em;
+}
+.head-bar2
+{
+    padding-top: 2.4rem;
+    padding-bottom: 0.3rem;
+    font-family: "Benton Sans Book",Helvetica,sans-serif;
+    font-size: 1.1em;
+    line-height: 1.5;
+}
+.head-bar2:hover
+{
+text-decoration: underline;
+color: #000;
+}
+.bar-para
+{
+    font-family: "Merriweather",serif;
+    font-weight: normal;
+    font-style: normal;
+    color: #333;
+    font-size: 0.875em;
+    line-height: 1.7;
+}
+
